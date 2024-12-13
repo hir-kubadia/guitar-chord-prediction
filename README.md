@@ -1,1 +1,1 @@
-# guitar-chord-prediction
+# guitar_chord_prediction
